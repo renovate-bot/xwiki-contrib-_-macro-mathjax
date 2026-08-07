@@ -29,7 +29,7 @@
   </parent>
   <groupId>org.xwiki.contrib.mathjax</groupId>
   <artifactId>macro-mathjax</artifactId>
-  <version>1.1.10</version>
+  <version>1.1.11-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>MathJax</name>
   <description>Enter content supported by the MathJax javascript engine</description>
@@ -41,7 +41,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/macro-mathjax.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/macro-mathjax.git</developerConnection>
     <url>https://github.com/xwiki-contrib/macro-mathjax</url>
-    <tag>macro-mathjax-1.1.10</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
